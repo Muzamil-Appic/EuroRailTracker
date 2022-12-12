@@ -1,0 +1,6 @@
+module Pods_eurorailtracker_eurorailtrackerTests {
+  umbrella header "Pods-eurorailtracker-eurorailtrackerTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
